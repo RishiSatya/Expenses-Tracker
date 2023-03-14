@@ -1,14 +1,12 @@
 # Expense-Tracker
 
-![Anushka GYM](expense.jpg)
-
 ## Project Title
 
 Voice Powered Expense Tracker Web App
 
 ## 1. Demo Website
 
-- 👉 Netlify : https://anushka-expense-tracker.netlify.app/
+- 👉 Netlify : 
 
 ## 2. You Will Learn
 
@@ -27,7 +25,6 @@ Voice Powered Expense Tracker Web App
 ## 3. Clone repo
 
 ```
-$ git@github.com:NileshShriwas/Expense-Tracker.git
 $ cd Expense-Tracker
 ```
 
