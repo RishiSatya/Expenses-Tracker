@@ -24,7 +24,7 @@ Voice Powered Expense Tracker Web App
 
 ## 3. Clone repo
 
-```
+```https://github.com/RishiSatya/Expenses-Tracker
 $ cd Expense-Tracker
 ```
 
